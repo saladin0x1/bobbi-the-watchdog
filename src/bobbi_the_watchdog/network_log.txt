@@ -1,0 +1,4 @@
+2025-03-26 13:24:54,344 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:24:54,344 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:24:59,351 - INFO - No threats detected.
+2025-03-26 13:24:59,351 - INFO - Finished
