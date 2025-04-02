@@ -1,0 +1,1011 @@
+2025-03-26 13:08:26,320 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:08:26,320 - INFO - Capturing packets on en0 for 10 seconds
+2025-03-26 13:08:36,325 - INFO - No threats detected.
+2025-03-26 13:08:36,325 - INFO - Finished
+2025-03-26 13:08:54,985 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:08:54,985 - INFO - Capturing packets on en0 for 10 seconds
+2025-03-26 13:09:02,281 - INFO - No threats detected.
+2025-03-26 13:09:02,281 - INFO - Finished
+2025-03-26 13:09:13,343 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:09:13,344 - INFO - Capturing packets on en0 for 10 seconds
+2025-03-26 13:09:23,350 - INFO - No threats detected.
+2025-03-26 13:09:23,350 - INFO - Finished
+2025-03-26 13:09:33,550 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:09:33,550 - INFO - Capturing packets on en0 for 10 seconds
+2025-03-26 13:09:43,557 - INFO - No threats detected.
+2025-03-26 13:09:43,558 - INFO - Finished
+2025-03-26 13:09:58,196 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:09:58,196 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:10:03,202 - INFO - No threats detected.
+2025-03-26 13:10:03,202 - INFO - Finished
+2025-03-26 13:10:19,094 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:10:19,094 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:10:24,102 - INFO - ICMP packet from 10.10.1.250
+2025-03-26 13:10:24,102 - INFO - ICMP packet from 10.10.1.250
+2025-03-26 13:10:24,102 - WARNING - Potential DDoS attacks detected from: 10.10.1.250
+2025-03-26 13:10:24,102 - INFO - Finished
+2025-03-26 13:15:24,347 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:15:24,347 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:15:29,356 - INFO - No threats detected.
+2025-03-26 13:15:29,362 - INFO - Finished
+2025-03-26 13:25:31,729 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:25:31,730 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:25:36,736 - INFO - No threats detected.
+2025-03-26 13:25:36,736 - INFO - Finished
+2025-03-26 13:32:48,954 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:32:48,954 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:32:53,958 - INFO - No threats detected.
+2025-03-26 13:32:53,958 - INFO - Finished
+2025-03-26 13:37:02,745 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:37:02,746 - INFO - Capturing packets on en00 for 5 seconds
+2025-03-26 13:37:02,769 - ERROR - Failed to capture packets: Interface 'en00' not found !
+2025-03-26 13:37:02,769 - INFO - No threats detected.
+2025-03-26 13:37:02,769 - INFO - Finished
+2025-03-26 13:55:52,224 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:55:52,225 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:55:57,228 - INFO - No threats detected.
+2025-03-26 13:55:57,228 - INFO - Finished
+2025-03-26 13:56:13,175 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:56:13,175 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:56:18,182 - INFO - No threats detected.
+2025-03-26 13:56:18,182 - INFO - Finished
+2025-03-26 13:56:30,823 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:56:30,823 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:56:35,829 - INFO - No threats detected.
+2025-03-26 13:56:35,829 - INFO - Finished
+2025-03-26 13:57:05,445 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:57:05,445 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:57:10,453 - INFO - No threats detected.
+2025-03-26 13:57:10,453 - INFO - Finished
+2025-03-26 13:57:19,941 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:57:19,941 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 13:57:24,949 - INFO - No threats detected.
+2025-03-26 13:57:24,949 - INFO - Finished
+2025-03-26 13:57:51,283 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:57:51,284 - INFO - Capturing packets on en0 for 10 seconds
+2025-03-26 13:58:01,291 - INFO - No threats detected.
+2025-03-26 13:58:01,292 - INFO - Finished
+2025-03-26 13:58:47,747 - INFO - Starting Bobbi the Watchdog
+2025-03-26 13:58:47,747 - INFO - Capturing packets on en0 for 60 seconds
+2025-03-26 13:59:47,755 - INFO - No threats detected.
+2025-03-26 13:59:47,755 - INFO - Finished
+2025-03-26 14:00:07,278 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:00:07,278 - INFO - Capturing packets on lo0 for 60 seconds
+2025-03-26 14:01:07,284 - INFO - No threats detected.
+2025-03-26 14:01:07,285 - INFO - Finished
+2025-03-26 14:01:46,684 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:01:46,684 - INFO - Capturing packets on lo0 for 5 seconds
+2025-03-26 14:01:51,690 - INFO - No threats detected.
+2025-03-26 14:01:51,691 - INFO - Finished
+2025-03-26 14:13:41,242 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:13:41,242 - INFO - Capturing packets on lo0 for 5 seconds
+2025-03-26 14:13:46,248 - INFO - No threats detected.
+2025-03-26 14:13:46,249 - INFO - Finished
+2025-03-26 14:17:13,073 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:17:13,074 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 14:18:21,162 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:18:21,163 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 14:22:04,355 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:22:04,357 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 14:23:13,204 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:23:13,205 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 14:25:16,093 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:25:16,093 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 14:25:16,093 - INFO - Starting packet capture on en0 for 5s
+2025-03-26 14:25:21,097 - INFO - Captured 0 packets
+2025-03-26 14:25:21,098 - INFO - IP counts: {}
+2025-03-26 14:25:21,099 - INFO - No threats detected.
+2025-03-26 14:25:21,100 - INFO - Finished
+2025-03-26 14:26:07,242 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:26:07,243 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 14:26:07,243 - INFO - Starting packet capture on en0 for 5s
+2025-03-26 14:26:12,247 - INFO - Captured 0 packets
+2025-03-26 14:26:12,247 - INFO - IP counts: {}
+2025-03-26 14:26:12,248 - INFO - No threats detected.
+2025-03-26 14:26:12,248 - INFO - Finished
+2025-03-26 14:26:34,794 - INFO - Starting Bobbi the Watchdog
+2025-03-26 14:26:34,794 - INFO - Capturing packets on en0 for 5 seconds
+2025-03-26 14:26:34,794 - INFO - Starting packet capture on en0 for 5s
+2025-03-26 14:26:50,747 - INFO - Captured 753 packets
+2025-03-26 14:26:50,749 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 A / Raw
+2025-03-26 14:26:50,750 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,750 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 A / Raw
+2025-03-26 14:26:50,751 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,751 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https A
+2025-03-26 14:26:50,751 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,751 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 A / Raw
+2025-03-26 14:26:50,751 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,751 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 PA / Raw
+2025-03-26 14:26:50,752 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,752 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https A
+2025-03-26 14:26:50,752 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,752 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https A
+2025-03-26 14:26:50,753 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,753 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https A / Raw
+2025-03-26 14:26:50,753 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,754 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https PA / Raw
+2025-03-26 14:26:50,754 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,754 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 A
+2025-03-26 14:26:50,754 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,755 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 PA / Raw
+2025-03-26 14:26:50,755 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,755 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https A
+2025-03-26 14:26:50,755 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,756 - INFO - Packet summary: Ether / ARP who has 26.10.172.27 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,756 - INFO - Packet summary: Ether / ARP who has 26.10.172.18 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,756 - INFO - Packet summary: Ether / ARP who has 26.10.172.9 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,756 - INFO - Packet summary: Ether / ARP who has 26.10.172.28 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,757 - INFO - Packet summary: Ether / ARP who has 26.10.172.19 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,757 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,757 - INFO - Packet summary: Ether / ARP who has 26.10.172.10 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,758 - INFO - Packet summary: Ether / ARP who has 26.10.172.29 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,758 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,758 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,758 - INFO - Packet summary: Ether / ARP who has 26.10.0.133 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,758 - INFO - Packet summary: Ether / ARP who has 26.10.172.20 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,758 - INFO - Packet summary: Ether / ARP who has 26.10.172.11 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,759 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 FPA / Raw
+2025-03-26 14:26:50,759 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,759 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https A
+2025-03-26 14:26:50,759 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,759 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https PA / Raw
+2025-03-26 14:26:50,759 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,760 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61535 > 20.189.173.8:https FA
+2025-03-26 14:26:50,760 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,760 - INFO - Packet summary: Ether / IP / TCP 20.189.173.8:https > 26.10.0.254:61535 A
+2025-03-26 14:26:50,760 - INFO - ICMP packet from 20.189.173.8
+2025-03-26 14:26:50,760 - INFO - Packet summary: Ether / ARP who has 26.10.1.137 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,760 - INFO - Packet summary: Ether / ARP who has 26.10.1.255 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,760 - INFO - Packet summary: Ether / ARP who has 26.10.172.30 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,760 - INFO - Packet summary: Ether / ARP who has 26.10.172.12 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,761 - INFO - Packet summary: Ether / ARP who has 26.10.172.31 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,761 - INFO - Packet summary: Ether / ARP who has 26.10.172.22 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,761 - INFO - Packet summary: Ether / ARP who has 26.10.0.189 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,761 - INFO - Packet summary: Ether / ARP who has 26.10.172.13 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,761 - INFO - Packet summary: Ether / ARP who has 26.10.172.32 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,761 - INFO - Packet summary: Ether / ARP who has 26.10.1.166 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,761 - INFO - Packet summary: Ether / ARP who has 26.10.0.105 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,762 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,762 - INFO - Packet summary: Ether / ARP who has 26.10.172.23 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,762 - INFO - Packet summary: Ether / ARP who has 26.10.172.14 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,762 - INFO - Packet summary: Ether / ARP who has 26.10.172.33 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,763 - INFO - Packet summary: Ether / ARP who has 26.10.172.15 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,763 - INFO - Packet summary: Ether / ARP who has 26.10.172.34 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,764 - INFO - Packet summary: Ether / ARP who has 26.10.172.25 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,764 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,765 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,765 - INFO - Packet summary: Ether / ARP who has 26.10.172.16 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,765 - INFO - Packet summary: Ether / ARP who has 26.10.172.35 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,765 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,766 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,766 - INFO - Packet summary: Ether / ARP who has 26.10.172.26 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,766 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.2.96 / Padding
+2025-03-26 14:26:50,766 - INFO - Packet summary: Ether / ARP who has 26.10.172.17 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,766 - INFO - Packet summary: Ether / ARP who has 26.10.172.36 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,767 - INFO - Packet summary: Ether / ARP who has 26.10.172.27 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,767 - INFO - Packet summary: Ether / ARP who has 26.10.172.18 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,768 - INFO - Packet summary: Ether / ARP who has 26.10.172.37 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,768 - INFO - Packet summary: Ether / ARP who has 26.10.0.165 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,769 - INFO - Packet summary: Ether / ARP who has 26.10.172.28 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,769 - INFO - Packet summary: Ether / ARP who has 26.10.172.19 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,769 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,769 - INFO - Packet summary: Ether / ARP who has 26.10.172.38 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,770 - INFO - Packet summary: Ether / ARP who has 26.10.172.29 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,770 - INFO - Packet summary: Ether / ARP who has 26.10.172.20 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,770 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,770 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,770 - INFO - Packet summary: Ether / ARP who has 26.10.172.39 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,770 - INFO - Packet summary: Ether / ARP who has 26.10.172.30 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,771 - INFO - Packet summary: Ether / ARP who has 26.10.172.21 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,771 - INFO - Packet summary: Ether / ARP who has 26.10.172.40 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,771 - INFO - Packet summary: Ether / ARP who has 26.10.172.31 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,772 - INFO - Packet summary: Ether / ARP who has 26.10.172.22 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,772 - INFO - Packet summary: Ether / ARP who has 26.10.172.41 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,772 - INFO - Packet summary: Ether / ARP who has 26.10.1.166 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,773 - INFO - Packet summary: Ether / ARP who has 26.10.172.32 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,773 - INFO - Packet summary: Ether / ARP who has 26.10.172.23 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,773 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.47 / Padding
+2025-03-26 14:26:50,773 - INFO - Packet summary: Ether / ARP who has 26.10.172.42 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,773 - INFO - Packet summary: Ether / ARP who has 26.10.172.33 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,774 - INFO - Packet summary: Ether / ARP who has 26.10.172.24 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,774 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.2.56 / Padding
+2025-03-26 14:26:50,774 - INFO - Packet summary: Ether / ARP who has 26.10.172.43 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,774 - INFO - Packet summary: Ether / ARP who has 26.10.172.34 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,774 - INFO - Packet summary: Ether / ARP who has 26.10.172.25 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.119 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.119 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.172.44 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.2.44 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.172.35 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.172.26 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,775 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.172.45 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.172.36 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.172.27 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.1.55 says 26.10.1.55 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.2.80 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.172.46 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.172.37 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.55 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.172.28 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,776 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,777 - INFO - Packet summary: Ether / ARP who has 26.10.0.165 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,777 - INFO - Packet summary: Ether / ARP who has 26.10.172.47 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,779 - INFO - Packet summary: Ether / ARP who has 26.10.172.38 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,779 - INFO - Packet summary: Ether / ARP who has 26.10.172.29 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,780 - INFO - Packet summary: Ether / ARP who has 26.10.172.48 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,780 - INFO - Packet summary: Ether / ARP who has 26.10.172.39 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,780 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,780 - INFO - Packet summary: Ether / ARP who has 26.10.172.30 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,782 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,782 - INFO - Packet summary: Ether / ARP who has 26.10.172.49 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,783 - INFO - Packet summary: Ether / ARP who has 26.10.172.40 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,783 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61236 > 1.0.0.1:https A
+2025-03-26 14:26:50,783 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,784 - INFO - Packet summary: Ether / IP / TCP 1.0.0.1:https > 26.10.0.254:61236 A
+2025-03-26 14:26:50,784 - INFO - ICMP packet from 1.0.0.1
+2025-03-26 14:26:50,784 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61532 > 172.217.168.163:https A
+2025-03-26 14:26:50,784 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,784 - INFO - Packet summary: Ether / IP / TCP 172.217.168.163:https > 26.10.0.254:61532 A
+2025-03-26 14:26:50,785 - INFO - ICMP packet from 172.217.168.163
+2025-03-26 14:26:50,785 - INFO - Packet summary: Ether / ARP who has 26.10.172.31 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,785 - INFO - Packet summary: Ether / ARP who has 26.10.172.50 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,785 - INFO - Packet summary: Ether / ARP is at 5a:09:56:78:db:3b says 26.10.1.143 / Padding
+2025-03-26 14:26:50,785 - INFO - Packet summary: Ether / ARP who has 26.10.172.41 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,786 - INFO - Packet summary: Ether / ARP who has 26.10.1.57 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,786 - INFO - Packet summary: Ether / ARP who has 26.10.172.32 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,786 - INFO - Packet summary: Ether / ARP who has 26.10.1.166 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,786 - INFO - Packet summary: Ether / ARP who has 26.10.172.51 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,786 - INFO - Packet summary: Ether / ARP who has 26.10.172.42 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,787 - INFO - Packet summary: Ether / ARP who has 26.10.172.33 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,787 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.1.8 / Padding
+2025-03-26 14:26:50,787 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.8 / Padding
+2025-03-26 14:26:50,787 - INFO - Packet summary: Ether / ARP who has 26.10.172.52 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,787 - INFO - Packet summary: Ether / ARP who has 26.10.172.43 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,788 - INFO - Packet summary: Ether / ARP who has 26.10.172.34 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,788 - INFO - Packet summary: Ether / ARP who has 26.10.172.53 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,788 - INFO - Packet summary: Ether / ARP who has 26.10.172.44 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,788 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,789 - INFO - Packet summary: Ether / ARP who has 26.10.172.35 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,789 - INFO - Packet summary: Ether / ARP who has 26.10.172.54 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,789 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,790 - INFO - Packet summary: Ether / ARP who has 26.10.172.45 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,790 - INFO - Packet summary: Ether / ARP who has 26.10.1.237 says 26.10.1.237 / Padding
+2025-03-26 14:26:50,790 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,790 - INFO - Packet summary: Ether / ARP who has 26.10.172.36 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,790 - INFO - Packet summary: Ether / ARP who has 26.10.2.80 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,791 - INFO - Packet summary: Ether / ARP who has 26.10.172.55 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,791 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,791 - INFO - Packet summary: Ether / ARP who has 26.10.172.46 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,791 - INFO - Packet summary: Ether / ARP who has 26.10.172.37 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,791 - INFO - Packet summary: Ether / ARP who has 26.10.172.56 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,791 - INFO - Packet summary: Ether / ARP who has 26.10.172.47 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,792 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,792 - INFO - Packet summary: Ether / ARP who has 26.10.0.165 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,792 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,792 - INFO - Packet summary: Ether / ARP who has 26.10.172.38 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,792 - INFO - Packet summary: Ether / ARP who has 26.10.172.57 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,792 - INFO - Packet summary: Ether / ARP who has 26.10.172.48 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,793 - INFO - Packet summary: Ether / ARP who has 26.10.172.39 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,793 - INFO - Packet summary: Ether / ARP who has 26.10.1.55 says 26.10.1.55 / Padding
+2025-03-26 14:26:50,793 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,793 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,793 - INFO - Packet summary: Ether / ARP who has 26.10.172.58 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,794 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.55 / Padding
+2025-03-26 14:26:50,794 - INFO - Packet summary: Ether / ARP who has 26.10.172.49 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,795 - INFO - Packet summary: Ether / ARP who has 26.10.172.40 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,795 - INFO - Packet summary: Ether / ARP who has 26.10.172.59 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,795 - INFO - Packet summary: Ether / ARP who has 26.10.172.50 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,796 - INFO - Packet summary: Ether / ARP who has 26.10.172.41 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,796 - INFO - Packet summary: Ether / ARP who has 26.10.172.60 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,796 - INFO - Packet summary: Ether / ARP who has 26.10.1.57 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,796 - INFO - Packet summary: Ether / ARP who has 26.10.172.51 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,797 - INFO - Packet summary: Ether / ARP who has 26.10.172.42 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,797 - INFO - Packet summary: Ether / ARP is at e4:38:83:55:61:c7 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,798 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.55 / Padding
+2025-03-26 14:26:50,798 - INFO - Packet summary: Ether / ARP who has 26.10.172.61 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,798 - INFO - Packet summary: Ether / ARP who has 26.10.0.169 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,798 - INFO - Packet summary: Ether / ARP who has 26.10.172.52 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,798 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.2.19 / Padding
+2025-03-26 14:26:50,799 - INFO - Packet summary: Ether / ARP who has 26.10.172.43 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,799 - INFO - Packet summary: Ether / ARP who has 26.10.172.62 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,799 - INFO - Packet summary: Ether / ARP who has 26.10.172.53 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,799 - INFO - Packet summary: Ether / ARP who has 26.10.172.44 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,799 - INFO - Packet summary: Ether / ARP who has 26.10.1.74 says 26.10.1.74 / Padding
+2025-03-26 14:26:50,799 - INFO - Packet summary: Ether / ARP who has 26.10.172.63 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,800 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,800 - INFO - Packet summary: Ether / ARP who has 26.10.172.54 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,800 - INFO - Packet summary: Ether / ARP who has 26.10.172.45 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,800 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,800 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,800 - INFO - Packet summary: Ether / ARP who has 26.10.172.64 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.172.55 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.172.46 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.172.65 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.172.56 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.0.180 says 26.10.0.180 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.172.47 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,801 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,802 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,802 - INFO - Packet summary: Ether / ARP who has 26.10.172.66 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,802 - INFO - Packet summary: Ether / ARP who has 26.10.172.57 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,802 - INFO - Packet summary: Ether / ARP who has 26.10.172.48 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,802 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.237 / Padding
+2025-03-26 14:26:50,802 - INFO - Packet summary: Ether / ARP who has 26.10.1.237 says 26.10.1.237 / Padding
+2025-03-26 14:26:50,803 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.1.122 / Padding
+2025-03-26 14:26:50,803 - INFO - Packet summary: Ether / ARP who has 26.10.172.67 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,803 - INFO - Packet summary: Ether / ARP who has 26.10.172.58 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,803 - INFO - Packet summary: Ether / ARP who has 26.10.0.105 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,804 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,804 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,805 - INFO - Packet summary: Ether / ARP who has 26.10.172.49 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,805 - INFO - Packet summary: Ether / ARP is at 18:01:f1:ea:e9:73 says 26.10.0.123 / Padding
+2025-03-26 14:26:50,805 - INFO - Packet summary: Ether / ARP who has 26.10.172.68 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,805 - INFO - Packet summary: Ether / ARP who has 26.10.172.59 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,805 - INFO - Packet summary: Ether / ARP who has 26.10.172.50 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,805 - INFO - Packet summary: Ether / ARP who has 26.10.172.69 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,806 - INFO - Packet summary: Ether / ARP who has 26.10.172.60 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,806 - INFO - Packet summary: Ether / ARP who has 26.10.172.51 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,806 - INFO - Packet summary: Ether / ARP who has 26.10.1.57 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,806 - INFO - Packet summary: Ether / ARP who has 26.10.172.70 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,807 - INFO - Packet summary: Ether / ARP who has 26.10.172.61 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,807 - INFO - Packet summary: Ether / ARP who has 26.10.0.169 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,807 - INFO - Packet summary: Ether / ARP who has 26.10.172.52 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,807 - INFO - Packet summary: Ether / ARP who has 26.10.1.13 says 26.10.1.13 / Padding
+2025-03-26 14:26:50,808 - INFO - Packet summary: Ether / IP / UDP 26.10.0.1:50790 > 255.255.255.255:scp_config / Raw / Padding
+2025-03-26 14:26:50,808 - INFO - ICMP packet from 26.10.0.1
+2025-03-26 14:26:50,808 - INFO - Packet summary: Ether / ARP who has 26.10.172.71 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,808 - INFO - Packet summary: Ether / ARP who has 26.10.172.62 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,808 - INFO - Packet summary: Ether / ARP who has 26.10.172.72 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.172.63 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.0.125 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.172.54 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.13 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.172.73 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.0.125 says 26.10.0.125 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.172.64 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,809 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,810 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.74 / Padding
+2025-03-26 14:26:50,810 - INFO - Packet summary: Ether / ARP who has 26.10.1.110 says 26.10.1.110 / Padding
+2025-03-26 14:26:50,810 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,810 - INFO - Packet summary: Ether / ARP who has 26.10.172.55 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,810 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.0.125 / Padding
+2025-03-26 14:26:50,810 - INFO - Packet summary: Ether / ARP who has 26.10.172.74 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,810 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,811 - INFO - Packet summary: Ether / ARP who has 26.10.172.65 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,811 - INFO - Packet summary: Ether / ARP who has 26.10.172.56 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,812 - INFO - Packet summary: Ether / ARP who has 26.10.172.75 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,813 - INFO - Packet summary: Ether / ARP who has 26.10.172.66 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,813 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.0.180 / Padding
+2025-03-26 14:26:50,814 - INFO - Packet summary: Ether / ARP who has 26.10.1.74 says 26.10.1.74 / Padding
+2025-03-26 14:26:50,814 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,815 - INFO - Packet summary: Ether / ARP who has 26.10.172.57 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,815 - INFO - Packet summary: Ether / ARP who has 26.10.172.76 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,815 - INFO - Packet summary: Ether / ARP who has 26.10.172.67 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,816 - INFO - Packet summary: Ether / ARP who has 26.10.0.105 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,816 - INFO - Packet summary: Ether / ARP who has 26.10.172.77 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,816 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,816 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,816 - INFO - Packet summary: Ether / ARP who has 26.10.172.68 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,816 - INFO - Packet summary: Ether / ARP who has 26.10.172.59 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,817 - INFO - Packet summary: Ether / ARP who has 26.10.1.154 says 26.10.1.154 / Padding
+2025-03-26 14:26:50,817 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61524 > 102.50.244.52:https A
+2025-03-26 14:26:50,817 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,817 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61522 > 102.50.244.52:https A
+2025-03-26 14:26:50,817 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,817 - INFO - Packet summary: Ether / IP / TCP 102.50.244.52:https > 26.10.0.254:61522 A
+2025-03-26 14:26:50,817 - INFO - ICMP packet from 102.50.244.52
+2025-03-26 14:26:50,818 - INFO - Packet summary: Ether / IP / TCP 102.50.244.52:https > 26.10.0.254:61524 A
+2025-03-26 14:26:50,818 - INFO - ICMP packet from 102.50.244.52
+2025-03-26 14:26:50,818 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61525 > 102.50.244.52:https A
+2025-03-26 14:26:50,818 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,818 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.1.152 / Padding
+2025-03-26 14:26:50,818 - INFO - Packet summary: Ether / ARP who has 26.10.172.78 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,818 - INFO - Packet summary: Ether / ARP who has 26.10.172.69 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,818 - INFO - Packet summary: Ether / ARP who has 26.10.172.70 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,818 - INFO - Packet summary: Ether / ARP who has 26.10.172.61 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / ARP who has 26.10.2.90 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / ARP who has 26.10.0.169 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / ARP who has 26.10.172.80 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / ARP who has 26.10.172.71 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / ARP who has 26.10.172.62 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / IP / TCP 102.50.244.52:https > 26.10.0.254:61525 A
+2025-03-26 14:26:50,819 - INFO - ICMP packet from 102.50.244.52
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / ARP who has 26.10.172.81 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,819 - INFO - Packet summary: Ether / ARP who has 26.10.172.72 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,820 - INFO - Packet summary: Ether / ARP who has 26.10.172.63 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,820 - INFO - Packet summary: Ether / ARP who has 26.10.0.125 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,820 - INFO - Packet summary: Ether / ARP who has 26.10.2.29 says 26.10.2.29 / Padding
+2025-03-26 14:26:50,820 - INFO - Packet summary: Ether / ARP who has 26.10.172.82 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,820 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,821 - INFO - Packet summary: Ether / ARP who has 26.10.172.73 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,821 - INFO - Packet summary: Ether / ARP who has 26.10.172.64 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,821 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.0.125 / Padding
+2025-03-26 14:26:50,821 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,821 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.110 / Padding
+2025-03-26 14:26:50,822 - INFO - Packet summary: Ether / ARP who has 26.10.172.83 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,822 - INFO - Packet summary: Ether / ARP who has 26.10.1.13 says 26.10.1.13 / Padding
+2025-03-26 14:26:50,823 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,823 - INFO - Packet summary: Ether / ARP who has 26.10.172.74 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,823 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61499 > 140.82.112.21:https RA
+2025-03-26 14:26:50,823 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,824 - INFO - Packet summary: Ether / ARP who has 26.10.172.65 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,824 - INFO - Packet summary: Ether / ARP who has 26.10.172.84 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,824 - INFO - Packet summary: Ether / ARP who has 26.10.172.75 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,824 - INFO - Packet summary: Ether / ARP who has 26.10.172.66 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,825 - INFO - Packet summary: Ether / ARP who has 26.10.172.85 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,825 - INFO - Packet summary: Ether / ARP who has 26.10.172.76 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,825 - INFO - Packet summary: Ether / ARP who has 26.10.0.125 says 26.10.0.125 / Padding
+2025-03-26 14:26:50,825 - INFO - Packet summary: Ether / ARP who has 26.10.172.67 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,825 - INFO - Packet summary: Ether / ARP who has 26.10.1.110 says 26.10.1.110 / Padding
+2025-03-26 14:26:50,826 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.13 / Padding
+2025-03-26 14:26:50,826 - INFO - Packet summary: Ether / ARP who has 26.10.172.86 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,826 - INFO - Packet summary: Ether / ARP who has 26.10.172.77 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,826 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,827 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,827 - INFO - Packet summary: Ether / ARP who has 26.10.0.105 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,828 - INFO - Packet summary: Ether / ARP who has 26.10.172.68 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,829 - INFO - Packet summary: Ether / ARP who has 26.10.172.87 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,829 - INFO - Packet summary: Ether / ARP who has 26.10.172.78 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,830 - INFO - Packet summary: Ether / ARP who has 26.10.172.69 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,830 - INFO - Packet summary: Ether / ARP who has 26.10.172.88 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,830 - INFO - Packet summary: Ether / ARP who has 26.10.172.79 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,831 - INFO - Packet summary: Ether / ARP who has 26.10.172.70 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,831 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.110 / Padding
+2025-03-26 14:26:50,831 - INFO - Packet summary: Ether / ARP who has 26.10.2.90 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.172.89 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.172.80 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.172.71 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.172.90 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.172.81 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.172.72 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,832 - INFO - Packet summary: Ether / ARP who has 26.10.172.91 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.172.82 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.172.73 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.172.92 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.172.83 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.172.74 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.1.252 says 26.10.1.252 / Padding
+2025-03-26 14:26:50,833 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.252 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.93 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.84 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.75 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.94 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.85 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.76 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.95 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.86 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,834 - INFO - Packet summary: Ether / ARP who has 26.10.172.77 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.172.96 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.172.87 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.172.78 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.172.97 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.1.8 says 26.10.1.8 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.172.88 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,835 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,836 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,836 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,836 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,836 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,836 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,836 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,836 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,837 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,837 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,837 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,837 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,837 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,837 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,838 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,838 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,838 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,838 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,838 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,839 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,839 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,839 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,839 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,839 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,840 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,840 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,840 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,840 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,840 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,841 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,841 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,841 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,841 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,841 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,842 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,842 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https PA / Raw
+2025-03-26 14:26:50,842 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,842 - INFO - Packet summary: Ether / ARP who has 26.10.172.79 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,843 - INFO - Packet summary: Ether / ARP who has 26.10.172.98 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,843 - INFO - Packet summary: Ether / ARP who has 26.10.2.90 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,844 - INFO - Packet summary: Ether / ARP who has 26.10.172.89 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,845 - INFO - Packet summary: Ether / ARP who has 26.10.172.80 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,845 - INFO - Packet summary: Ether / ARP who has 26.10.172.99 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,846 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,847 - INFO - Packet summary: Ether / ARP who has 26.10.172.90 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,848 - INFO - Packet summary: Ether / ARP who has 26.10.172.81 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,848 - INFO - Packet summary: Ether / ARP who has 26.10.172.100 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,849 - INFO - Packet summary: Ether / ARP who has 26.10.172.91 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,849 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,849 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,849 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,849 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,849 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,849 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,850 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,850 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,850 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,850 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,850 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,850 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,850 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,850 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,850 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,850 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,850 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,851 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,851 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,851 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,851 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 PA / Raw
+2025-03-26 14:26:50,851 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,851 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A
+2025-03-26 14:26:50,851 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,851 - INFO - Packet summary: Ether / ARP who has 26.10.172.82 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,851 - INFO - Packet summary: Ether / ARP who has 26.10.172.101 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,851 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP who has 26.10.172.92 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP is at 86:20:65:73:ae:8c says 26.10.1.97 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP is at 86:20:65:73:ae:8c says 26.10.1.97 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP who has 26.10.172.83 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.252 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP who has 26.10.172.102 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,852 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,853 - INFO - Packet summary: Ether / ARP who has 26.10.172.93 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,853 - INFO - Packet summary: Ether / ARP who has 26.10.172.84 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,853 - INFO - Packet summary: Ether / ARP who has 26.10.172.103 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,853 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.8 / Padding
+2025-03-26 14:26:50,853 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 PA / Raw
+2025-03-26 14:26:50,853 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,853 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A
+2025-03-26 14:26:50,854 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,854 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,854 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,854 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,854 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,854 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,854 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,855 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,855 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,855 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,855 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,855 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A / Raw
+2025-03-26 14:26:50,855 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,856 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https PA / Raw
+2025-03-26 14:26:50,856 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,856 - INFO - Packet summary: Ether / ARP who has 26.10.172.94 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,857 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,857 - INFO - Packet summary: Ether / ARP who has 26.10.172.85 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,857 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.252 / Padding
+2025-03-26 14:26:50,857 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.33 / Padding
+2025-03-26 14:26:50,858 - INFO - Packet summary: Ether / ARP who has 26.10.172.104 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,858 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.33 / Padding
+2025-03-26 14:26:50,859 - INFO - Packet summary: Ether / ARP who has 26.10.172.95 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,859 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.33 / Padding
+2025-03-26 14:26:50,859 - INFO - Packet summary: Ether / ARP who has 26.10.172.86 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,859 - INFO - Packet summary: Ether / ARP who has 26.10.1.252 says 26.10.1.252 / Padding
+2025-03-26 14:26:50,859 - INFO - Packet summary: Ether / ARP who has 26.10.172.105 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,860 - INFO - Packet summary: Ether / ARP who has 26.10.172.96 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,860 - INFO - Packet summary: Ether / ARP who has 26.10.172.87 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,860 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,860 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,861 - INFO - Packet summary: Ether / ARP who has 26.10.172.106 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,862 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,862 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,863 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,863 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,864 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 A
+2025-03-26 14:26:50,864 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,864 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 PA / Raw
+2025-03-26 14:26:50,864 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,865 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A
+2025-03-26 14:26:50,865 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,865 - INFO - Packet summary: Ether / ARP who has 26.10.172.97 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,865 - INFO - Packet summary: Ether / ARP who has 26.10.172.88 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,865 - INFO - Packet summary: Ether / ARP who has 26.10.172.107 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,865 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / ARP who has 26.10.172.98 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.252 / Padding
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / ARP who has 26.10.172.108 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / ARP who has 26.10.172.99 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / ARP who has 26.10.172.90 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / IP / TCP 140.82.112.21:https > 26.10.0.254:61531 PA / Raw
+2025-03-26 14:26:50,866 - INFO - ICMP packet from 140.82.112.21
+2025-03-26 14:26:50,866 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61531 > 140.82.112.21:https A
+2025-03-26 14:26:50,866 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.109 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.100 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.91 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.110 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.101 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.33 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.92 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.111 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,867 - INFO - Packet summary: Ether / ARP who has 26.10.172.102 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,868 - INFO - Packet summary: Ether / ARP who has 26.10.172.93 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,868 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,868 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,868 - INFO - Packet summary: Ether / ARP who has 26.10.172.112 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,868 - INFO - Packet summary: Ether / ARP who has 26.10.172.103 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,868 - INFO - Packet summary: Ether / ARP who has 26.10.172.94 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,868 - INFO - Packet summary: Ether / ARP who has 26.10.172.113 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,869 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,869 - INFO - Packet summary: Ether / ARP who has 26.10.172.104 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,869 - INFO - Packet summary: Ether / ARP who has 26.10.172.95 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,869 - INFO - Packet summary: Ether / ARP who has 26.10.172.114 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,869 - INFO - Packet summary: Ether / ARP who has 26.10.172.105 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,869 - INFO - Packet summary: Ether / ARP who has 26.10.172.96 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,870 - INFO - Packet summary: Ether / ARP who has 26.10.172.115 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,870 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.1.147 / Padding
+2025-03-26 14:26:50,870 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,870 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,870 - INFO - Packet summary: Ether / ARP who has 26.10.172.106 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,870 - INFO - Packet summary: Ether / ARP who has 26.10.172.97 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,870 - INFO - Packet summary: Ether / ARP who has 26.10.172.116 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,871 - INFO - Packet summary: Ether / ARP who has 26.10.172.107 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,871 - INFO - Packet summary: Ether / ARP who has 26.10.0.254 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,871 - INFO - Packet summary: Ether / ARP is at 52:c9:10:67:a5:d0 says 26.10.0.254
+2025-03-26 14:26:50,871 - INFO - Packet summary: Ether / ARP who has 26.10.172.98 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,871 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,871 - INFO - Packet summary: Ether / ARP who has 26.10.172.117 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,872 - INFO - Packet summary: Ether / ARP who has 26.10.172.108 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,872 - INFO - Packet summary: Ether / ARP who has 26.10.2.11 says 26.10.2.11 / Padding
+2025-03-26 14:26:50,872 - INFO - Packet summary: Ether / ARP who has 26.10.172.99 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,872 - INFO - Packet summary: Ether / ARP who has 26.10.172.118 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,872 - INFO - Packet summary: Ether / ARP who has 26.10.172.109 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,873 - INFO - Packet summary: Ether / ARP who has 26.10.172.100 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,873 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,873 - INFO - Packet summary: Ether / ARP who has 26.10.172.119 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,874 - INFO - Packet summary: Ether / ARP who has 26.10.172.110 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,875 - INFO - Packet summary: Ether / ARP who has 26.10.172.101 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,876 - INFO - Packet summary: Ether / ARP who has 26.10.172.120 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,877 - INFO - Packet summary: Ether / ARP who has 26.10.172.111 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,877 - INFO - Packet summary: Ether / ARP who has 26.10.172.102 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,877 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,877 - INFO - Packet summary: Ether / ARP who has 26.10.172.121 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,878 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,878 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,878 - INFO - Packet summary: Ether / ARP who has 26.10.172.112 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,878 - INFO - Packet summary: Ether / ARP who has 26.10.172.103 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,878 - INFO - Packet summary: Ether / ARP who has 26.10.172.122 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 26.10.0.105 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 26.10.172.113 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 26.10.172.104 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 169.254.169.254 says 26.10.2.104 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 26.10.172.123 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61518 > 142.250.200.142:https A
+2025-03-26 14:26:50,879 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 26.10.172.114 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 26.10.172.105 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,879 - INFO - Packet summary: Ether / ARP who has 26.10.172.124 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP who has 26.10.172.115 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP who has 26.10.172.106 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP who has 26.10.172.125 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP who has 26.10.172.116 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP is at 92:18:1c:de:8c:05 says 26.10.1.60 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / ARP who has 26.10.172.107 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,880 - INFO - Packet summary: Ether / IP / TCP 142.250.200.142:https > 26.10.0.254:61518 A
+2025-03-26 14:26:50,880 - INFO - ICMP packet from 142.250.200.142
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.126 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.117 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.108 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.127 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.118 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.109 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.128 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.119 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.172.110 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,881 - INFO - Packet summary: Ether / ARP who has 26.10.0.105 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.113 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.132 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.123 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.114 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.37 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.133 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.124 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.115 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,882 - INFO - Packet summary: Ether / ARP who has 26.10.172.134 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,883 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61390 > 34.128.128.0:https A
+2025-03-26 14:26:50,883 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,883 - INFO - Packet summary: Ether / IP / TCP 34.128.128.0:https > 26.10.0.254:61390 A
+2025-03-26 14:26:50,883 - INFO - ICMP packet from 34.128.128.0
+2025-03-26 14:26:50,883 - INFO - Packet summary: Ether / ARP who has 26.10.172.125 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,883 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,884 - INFO - Packet summary: Ether / ARP who has 26.10.172.116 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,884 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,884 - INFO - Packet summary: Ether / ARP is at 86:20:65:73:ae:8c says 26.10.1.97 / Padding
+2025-03-26 14:26:50,884 - INFO - Packet summary: Ether / ARP is at 86:20:65:73:ae:8c says 26.10.1.97 / Padding
+2025-03-26 14:26:50,884 - INFO - Packet summary: Ether / ARP who has 26.10.172.135 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,884 - INFO - Packet summary: Ether / ARP who has 26.10.172.126 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,885 - INFO - Packet summary: Ether / ARP who has 26.10.172.117 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,885 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,885 - INFO - Packet summary: Ether / ARP who has 26.10.172.136 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,885 - INFO - Packet summary: Ether / ARP who has 26.10.172.127 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,885 - INFO - Packet summary: Ether / ARP who has 26.10.172.118 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,885 - INFO - Packet summary: Ether / ARP who has 26.10.172.137 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,885 - INFO - Packet summary: Ether / ARP who has 26.10.172.128 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,886 - INFO - Packet summary: Ether / ARP who has 26.10.172.119 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,886 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.1.64 / Padding
+2025-03-26 14:26:50,886 - INFO - Packet summary: Ether / ARP who has 26.10.172.138 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,886 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,886 - INFO - Packet summary: Ether / ARP who has 26.10.172.129 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,886 - INFO - Packet summary: Ether / ARP who has 26.10.172.120 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,886 - INFO - Packet summary: Ether / ARP who has 169.254.169.254 says 26.10.2.104 / Padding
+2025-03-26 14:26:50,887 - INFO - Packet summary: Ether / ARP who has 26.10.172.139 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,887 - INFO - Packet summary: Ether / ARP who has 26.10.172.130 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,887 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,887 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,888 - INFO - Packet summary: Ether / ARP who has 26.10.172.121 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,888 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,889 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,889 - INFO - Packet summary: Ether / ARP who has 26.10.172.131 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,890 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.0.148 / Padding
+2025-03-26 14:26:50,891 - INFO - Packet summary: Ether / ARP who has 26.10.172.122 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,891 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,892 - INFO - Packet summary: Ether / ARP who has 26.10.172.141 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,893 - INFO - Packet summary: Ether / ARP who has 26.10.0.105 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,893 - INFO - Packet summary: Ether / ARP who has 26.10.172.132 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,894 - INFO - Packet summary: Ether / ARP who has 26.10.172.123 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,894 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,894 - INFO - Packet summary: Ether / ARP who has 26.10.172.142 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,894 - INFO - Packet summary: Ether / ARP who has 26.10.172.133 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,894 - INFO - Packet summary: Ether / ARP who has 26.10.172.124 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,895 - INFO - Packet summary: Ether / ARP who has 26.10.2.14 says 26.10.2.14 / Padding
+2025-03-26 14:26:50,895 - INFO - Packet summary: Ether / ARP who has 26.10.172.143 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,895 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.14 / Padding
+2025-03-26 14:26:50,895 - INFO - Packet summary: Ether / ARP who has 26.10.172.134 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,896 - INFO - Packet summary: Ether / ARP who has 26.10.172.125 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,896 - INFO - Packet summary: Ether / ARP who has 26.10.172.144 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,896 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,896 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,896 - INFO - Packet summary: Ether / ARP who has 26.10.172.135 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,896 - INFO - Packet summary: Ether / ARP who has 26.10.172.126 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,896 - INFO - Packet summary: Ether / ARP who has 26.10.172.145 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.136 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.127 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.1.95 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.146 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.137 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.128 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.147 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.138 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,897 - INFO - Packet summary: Ether / ARP who has 26.10.172.129 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,898 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,898 - INFO - Packet summary: Ether / ARP who has 26.10.172.148 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,898 - INFO - Packet summary: Ether / ARP who has 26.10.172.139 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,899 - INFO - Packet summary: Ether / ARP who has 26.10.172.130 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,899 - INFO - Packet summary: Ether / ARP who has 26.10.172.149 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,899 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,899 - INFO - Packet summary: Ether / ARP who has 26.10.172.140 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,899 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,899 - INFO - Packet summary: Ether / ARP who has 26.10.172.131 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,899 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / ARP who has 26.10.172.150 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / ARP who has 26.10.172.141 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / ARP who has 26.10.172.132 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.1.231 / Padding
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61520 > 142.250.200.138:https A
+2025-03-26 14:26:50,900 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,900 - INFO - Packet summary: Ether / IP / TCP 142.250.200.138:https > 26.10.0.254:61520 A
+2025-03-26 14:26:50,901 - INFO - ICMP packet from 142.250.200.138
+2025-03-26 14:26:50,901 - INFO - Packet summary: Ether / ARP who has 26.10.172.151 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,901 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,901 - INFO - Packet summary: Ether / ARP who has 26.10.172.142 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,901 - INFO - Packet summary: Ether / ARP who has 26.10.172.133 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,901 - INFO - Packet summary: Ether / ARP who has 26.10.1.255 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,902 - INFO - Packet summary: Ether / ARP who has 26.10.172.152 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,902 - INFO - Packet summary: Ether / ARP who has 26.10.172.143 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,902 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.14 / Padding
+2025-03-26 14:26:50,902 - INFO - Packet summary: Ether / ARP who has 26.10.172.134 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,902 - INFO - Packet summary: Ether / ARP who has 26.10.172.153 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,903 - INFO - Packet summary: Ether / ARP who has 26.10.172.144 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,903 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,903 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,903 - INFO - Packet summary: Ether / ARP who has 26.10.172.135 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,903 - INFO - Packet summary: Ether / ARP who has 26.10.172.154 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,904 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61521 > 142.250.200.138:https A
+2025-03-26 14:26:50,904 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,904 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61516 > 172.217.168.164:https A
+2025-03-26 14:26:50,904 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,905 - INFO - Packet summary: Ether / IP / TCP 172.217.168.164:https > 26.10.0.254:61516 A
+2025-03-26 14:26:50,905 - INFO - ICMP packet from 172.217.168.164
+2025-03-26 14:26:50,905 - INFO - Packet summary: Ether / IP / TCP 142.250.200.138:https > 26.10.0.254:61521 A
+2025-03-26 14:26:50,906 - INFO - ICMP packet from 142.250.200.138
+2025-03-26 14:26:50,906 - INFO - Packet summary: Ether / ARP who has 26.10.172.145 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,906 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,907 - INFO - Packet summary: Ether / ARP who has 26.10.172.136 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,907 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.0.130 / Padding
+2025-03-26 14:26:50,908 - INFO - Packet summary: Ether / ARP who has 26.10.172.155 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,909 - INFO - Packet summary: Ether / ARP who has 26.10.172.146 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,909 - INFO - Packet summary: Ether / ARP who has 26.10.2.14 says 26.10.2.14 / Padding
+2025-03-26 14:26:50,909 - INFO - Packet summary: Ether / ARP who has 26.10.172.137 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,909 - INFO - Packet summary: Ether / ARP who has 26.10.0.245 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,909 - INFO - Packet summary: Ether / ARP who has 26.10.172.156 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,909 - INFO - Packet summary: Ether / ARP who has 26.10.172.147 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.172.138 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 0.0.0.0 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.172.157 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.0.214 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.33 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.172.148 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.172.139 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.172.158 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,910 - INFO - Packet summary: Ether / ARP who has 26.10.172.149 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.0.1 says 26.10.2.14 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.172.140 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.172.159 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.172.150 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.2.67 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,911 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,912 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 0.0.0.0 / Padding
+2025-03-26 14:26:50,912 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,912 - INFO - Packet summary: Ether / ARP who has 26.10.172.141 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,912 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61528 > 142.251.37.46:https A
+2025-03-26 14:26:50,912 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,912 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61527 > 142.250.179.106:https A
+2025-03-26 14:26:50,912 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,912 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61526 > 142.250.184.14:https A
+2025-03-26 14:26:50,912 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,913 - INFO - Packet summary: Ether / IP / TCP 26.10.0.254:61523 > 1.0.0.1:https A
+2025-03-26 14:26:50,913 - INFO - ICMP packet from 26.10.0.254
+2025-03-26 14:26:50,913 - INFO - Packet summary: Ether / IP / TCP 142.250.184.14:https > 26.10.0.254:61526 A
+2025-03-26 14:26:50,913 - INFO - ICMP packet from 142.250.184.14
+2025-03-26 14:26:50,913 - INFO - Packet summary: Ether / IP / TCP 142.251.37.46:https > 26.10.0.254:61528 A
+2025-03-26 14:26:50,913 - INFO - ICMP packet from 142.251.37.46
+2025-03-26 14:26:50,913 - INFO - Packet summary: Ether / IP / TCP 1.0.0.1:https > 26.10.0.254:61523 A
+2025-03-26 14:26:50,913 - INFO - ICMP packet from 1.0.0.1
+2025-03-26 14:26:50,914 - INFO - Packet summary: Ether / IP / TCP 142.250.179.106:https > 26.10.0.254:61527 A
+2025-03-26 14:26:50,914 - INFO - ICMP packet from 142.250.179.106
+2025-03-26 14:26:50,914 - INFO - Packet summary: Ether / ARP who has 26.10.172.160 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,914 - INFO - Packet summary: Ether / ARP who has 26.10.172.151 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,914 - INFO - Packet summary: Ether / ARP who has 26.10.172.142 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,914 - INFO - Packet summary: Ether / ARP who has 26.10.172.161 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,914 - INFO - Packet summary: Ether / ARP who has 26.10.172.152 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,914 - INFO - Packet summary: Ether / ARP who has 26.10.1.255 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.172.143 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.172.162 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.172.153 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 0.0.0.0 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.172.144 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.172.163 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.172.154 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,915 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.172.145 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.172.164 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.172.155 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.172.146 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.172.165 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.1.236 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.172.156 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.2.39 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.172.147 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,916 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 26.10.0.239 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.172.166 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.172.157 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.172.148 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.2.49 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.0.10 says 26.10.0.145 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.172.167 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.172.158 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / IP / UDP 26.10.0.1:50790 > 255.255.255.255:scp_config / Raw / Padding
+2025-03-26 14:26:50,917 - INFO - ICMP packet from 26.10.0.1
+2025-03-26 14:26:50,917 - INFO - Packet summary: Ether / ARP who has 26.10.172.149 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.172.168 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.1.216 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.172.159 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.172.150 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.0.239 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.0.190 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.172.169 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,918 - INFO - Packet summary: Ether / ARP who has 26.10.1.155 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,919 - INFO - Packet summary: Ether / ARP who has 26.10.172.160 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,919 - INFO - Packet summary: Ether / ARP who has 26.10.172.151 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,919 - INFO - Packet summary: Ether / ARP who has 26.10.172.170 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,919 - INFO - Packet summary: Ether / ARP who has 26.10.1.227 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,919 - INFO - Packet summary: Ether / ARP who has 26.10.172.161 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,919 - INFO - Packet summary: Ether / ARP who has 26.10.172.152 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,919 - INFO - Packet summary: Ether / ARP who has 26.10.172.171 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,920 - INFO - Packet summary: Ether / ARP who has 26.10.1.255 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,920 - INFO - Packet summary: Ether / ARP who has 26.10.172.162 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,920 - INFO - Packet summary: Ether / ARP who has 26.10.172.153 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,920 - INFO - Packet summary: Ether / ARP who has 26.10.2.69 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,921 - INFO - Packet summary: Ether / ARP who has 26.10.172.172 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,921 - INFO - Packet summary: Ether / ARP who has 26.10.172.163 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,921 - INFO - Packet summary: Ether / ARP who has 26.10.172.154 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,921 - INFO - Packet summary: Ether / ARP who has 26.10.2.46 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,921 - INFO - Packet summary: Ether / ARP who has 26.10.0.122 says 26.10.0.1 / Padding
+2025-03-26 14:26:50,922 - INFO - Packet summary: Ether / ARP who has 26.10.172.173 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,922 - INFO - Packet summary: Ether / ARP who has 26.10.172.164 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,922 - INFO - Packet summary: Ether / ARP who has 26.10.172.155 says 26.10.1.249 / Padding
+2025-03-26 14:26:50,922 - INFO - IP counts: {'20.189.173.8': 8, '26.10.0.254': 53, '1.0.0.1': 2, '172.217.168.163': 1, '26.10.0.1': 2, '102.50.244.52': 3, '140.82.112.21': 17, '142.250.200.142': 1, '34.128.128.0': 1, '142.250.200.138': 2, '172.217.168.164': 1, '142.250.184.14': 1, '142.251.37.46': 1, '142.250.179.106': 1}
+2025-03-26 14:26:50,922 - WARNING - Potential DDoS attacks detected from: 26.10.0.254, 140.82.112.21
+2025-03-26 14:26:50,922 - INFO - Finished
+2025-04-02 12:26:13,441 - INFO - Starting Bobbi the Watchdog
+2025-04-02 12:26:13,442 - INFO - Capturing packets on en0 for 5 seconds
+2025-04-02 12:26:13,569 - ERROR - Failed to capture packets: Interface 'en0' not found !
+2025-04-02 12:26:13,570 - INFO - No threats detected.
+2025-04-02 12:26:13,570 - INFO - Finished
+2025-04-02 12:32:19,716 - INFO - Starting Bobbi the Watchdog
+2025-04-02 12:32:19,717 - INFO - Capturing packets on eth1 for 5 seconds
+2025-04-02 12:32:19,728 - ERROR - Failed to capture packets: Cannot set filter: libpcap is not available. Cannot compile filter !
+2025-04-02 12:32:19,748 - INFO - No threats detected.
+2025-04-02 12:32:19,748 - INFO - Finished
+2025-04-02 12:32:53,935 - INFO - Starting Bobbi the Watchdog
+2025-04-02 12:32:53,936 - INFO - Capturing packets on eth1 for 5 seconds
+2025-04-02 12:32:53,939 - ERROR - Failed to capture packets: Cannot set filter: libpcap is not available. Cannot compile filter !
+2025-04-02 12:32:53,954 - INFO - No threats detected.
+2025-04-02 12:32:53,954 - INFO - Finished
+2025-04-02 12:34:18,619 - INFO - Starting Bobbi the Watchdog
+2025-04-02 12:34:18,620 - INFO - Capturing packets on eth1 for 5 seconds
+2025-04-02 12:34:23,649 - INFO - No threats detected.
+2025-04-02 12:34:23,650 - INFO - Finished
+2025-04-02 12:35:22,171 - INFO - Starting Bobbi the Watchdog
+2025-04-02 12:35:22,171 - INFO - Capturing packets on eth1 for 5 seconds
+2025-04-02 12:35:27,205 - INFO - No threats detected.
+2025-04-02 12:35:27,208 - INFO - Finished
+2025-04-02 12:35:41,323 - INFO - Starting Bobbi the Watchdog
+2025-04-02 12:35:41,324 - INFO - Capturing packets on eth1 for 10 seconds
+2025-04-02 12:35:51,351 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,353 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,354 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,355 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,356 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,357 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,359 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,360 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,361 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,362 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,363 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,364 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,366 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,368 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,369 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,371 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,373 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,374 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,375 - INFO - ICMP packet from 192.168.64.1
+2025-04-02 12:35:51,375 - INFO - ICMP packet from 192.168.64.2
+2025-04-02 12:35:51,377 - WARNING - Potential DDoS attacks detected from: 192.168.64.1, 192.168.64.2
+2025-04-02 12:35:51,377 - INFO - Finished
+2025-04-02 15:18:57,720 - INFO - Starting Bobbi the Watchdog
+2025-04-02 15:18:57,721 - INFO - Capturing packets on eth1 for 10 seconds
+2025-04-02 15:18:57,722 - INFO - Detected container IP: 192.168.64.2
+2025-04-02 15:18:59,751 - INFO - No threats detected.
+2025-04-02 15:18:59,753 - INFO - Finished

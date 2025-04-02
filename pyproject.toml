@@ -1,0 +1,20 @@
+[project]
+name = "bobbi-the-watchdog"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "saladin0x1", email = "salaheddine.elouali@emsi-edu.ma" }
+]
+requires-python = ">=3.12"  
+dependencies = [
+    "scapy>=2.6.1",
+]
+
+
+[project.scripts]
+watchdog = "bobbi_the_watchdog.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
