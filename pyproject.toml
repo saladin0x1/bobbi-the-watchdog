@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.12"  
 dependencies = [
+    "pyclamd>=0.4.0",
     "scapy>=2.6.1",
 ]
 

@@ -6,11 +6,21 @@ name = "bobbi-the-watchdog"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+    { name = "pyclamd" },
     { name = "scapy" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "scapy", specifier = ">=2.6.1" }]
+requires-dist = [
+    { name = "pyclamd", specifier = ">=0.4.0" },
+    { name = "scapy", specifier = ">=2.6.1" },
+]
+
+[[package]]
+name = "pyclamd"
+version = "0.4.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/13/73/97a0518b59f1b6aefa2ac851566038d2c9128f8a5503bcf4cd0adf8b0072/pyClamd-0.4.0.tar.gz", hash = "sha256:ddd588577e5db123760b6ddaac46b5c4b1d9044a00b5d9422de59f83a55c20fe", size = 11177 }
 
 [[package]]
 name = "scapy"

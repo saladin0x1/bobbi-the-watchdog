@@ -2,13 +2,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug with sudo",
+            "name": "Debug with UV",
             "type": "debugpy",
             "request": "launch",
             "sudo": true,
-            "program": "${workspaceFolder}/src/bobbi_the_watchdog/main.py",
-            "args": [],
-            "console": "integratedTerminal"
+            "module": "bobbi_the_watchdog.main",
+            "console": "integratedTerminal",
+            "pythonPath": "${workspaceFolder}/.venv/bin/python"
         }
     ]
 }
