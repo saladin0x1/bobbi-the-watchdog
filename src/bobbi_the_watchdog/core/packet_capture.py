@@ -77,7 +77,7 @@ def capture_tcp_file(interface, duration, output_dir="captured_files"):
         sniff(
             iface=interface,
             timeout=duration,
-            filter="tcp port 80",
+            filter="tcp",
             prn=packet_handler
         )
     except Exception as e:
@@ -93,7 +93,7 @@ def capture_tcp_file(interface, duration, output_dir="captured_files"):
             return output_file
         except Exception as e:
             logging.error(f"Failed to save captured file: {e}")
-            return None
+            return None 
     else:
         logging.info("No TCP data captured to save as a file")
         return None
