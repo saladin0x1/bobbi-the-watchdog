@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  bobbi-watchdog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bobbi-watchdog
+    cap_add:
+      - NET_ADMIN  # Required for packet capture
+    network_mode: "bridge"  # This gives the container its own IP address
+    restart: unless-stopped
+    volumes:
+      - ./network_log.txt:/app/network_log.txt
+      - ./captured_files:/app/captured_files
+    environment:
+      - INTERFACE=eth0  # Default interface in Alpine container
+    # Uncomment below if you want to expose any web interface in the future
+    # ports:
+    #   - "8080:8080"
