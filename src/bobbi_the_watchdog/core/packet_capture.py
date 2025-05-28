@@ -71,8 +71,6 @@ def capture_tcp_and_analyze_live(interface, malware_detector, duration=None):
     if not container_ip:
         logging.warning("Could not determine container IP for TCP capture; proceeding without filtering.")
 
-    processed_streams = set() # To keep track of processed TCP streams (src_ip, sport, dst_ip, dport)
-
     def live_packet_handler(packet):
         if packet.haslayer("TCP") and packet.haslayer("Raw") and packet.haslayer("IP"):
             src_ip = packet["IP"].src
@@ -82,20 +80,14 @@ def capture_tcp_and_analyze_live(interface, malware_detector, duration=None):
             payload = packet["Raw"].load
 
             if container_ip and (src_ip == container_ip or dst_ip == container_ip):
-                # logging.debug(f"Ignoring packet to/from self: {src_ip}:{sport} -> {dst_ip}:{dport}")
+                # Skip packets to/from self
                 return
-
-            # Create a unique identifier for the stream (consider both directions)
-            stream_id_fwd = (src_ip, sport, dst_ip, dport)
-            stream_id_rev = (dst_ip, dport, src_ip, sport) # For bi-directional streams, might need more sophisticated tracking
 
             # For simplicity, we'll analyze each packet's payload individually here.
             # More advanced stream reassembly would be needed for stateful analysis.
             if payload:
                 logging.info(f"Received TCP data chunk: {len(payload)} bytes from {src_ip}:{sport} to {dst_ip}:{dport}")
                 malware_detector.analyze_data_chunk(payload)
-            # else: # TCP packets without payload (e.g. SYN, ACK, FIN)
-                # logging.debug(f"TCP packet without payload from {src_ip}:{sport} to {dst_ip}:{dport}")
 
     try:
         if duration is None:

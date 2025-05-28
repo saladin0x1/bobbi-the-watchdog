@@ -31,26 +31,42 @@ SOCKET_PATH="/var/run/clamav/clamd.ctl"  # Updated to use .ctl socket
 TIMEOUT=30 # Increased timeout for slower systems
 COUNT=0
 
-while [ ! -S "$SOCKET_PATH" ] && [ $COUNT -lt $TIMEOUT ]; do
-    echo "Waiting for ClamAV socket at $SOCKET_PATH... ($COUNT/$TIMEOUT) Clamd process status:"
-    pgrep clamd || echo "Clamd process not found."
-    ls -l /var/run/clamav/
-    sleep 2 # Increased sleep interval
-    COUNT=$((COUNT + 1))
+# Wait for ClamAV socket to become available
+echo "Waiting for ClamAV to start..."
+SOCKET_PATHS="/var/run/clamav/clamd.ctl /var/run/clamav/clamd.sock"
+TIMEOUT=30
+COUNT=0
+SOCKET_FOUND=""
+
+while [ -z "$SOCKET_FOUND" ] && [ $COUNT -lt $TIMEOUT ]; do
+    for SOCKET_PATH in $SOCKET_PATHS; do
+        if [ -S "$SOCKET_PATH" ]; then
+            SOCKET_FOUND="$SOCKET_PATH"
+            break
+        fi
+    done
+    
+    if [ -z "$SOCKET_FOUND" ]; then
+        echo "Waiting for ClamAV socket... ($COUNT/$TIMEOUT) Clamd process status:"
+        pgrep clamd || echo "Clamd process not found."
+        ls -l /var/run/clamav/ 2>/dev/null || echo "/var/run/clamav/ directory not found"
+        sleep 2
+        COUNT=$((COUNT + 1))
+    fi
 done
 
-if [ -S "$SOCKET_PATH" ]; then
-    echo "ClamAV socket $SOCKET_PATH is ready."
-    ls -l "$SOCKET_PATH"
+if [ -n "$SOCKET_FOUND" ]; then
+    echo "ClamAV socket $SOCKET_FOUND is ready."
+    ls -l "$SOCKET_FOUND"
 else
-    echo "WARNING: ClamAV socket $SOCKET_PATH not found after $TIMEOUT seconds."
+    echo "WARNING: No ClamAV socket found after $TIMEOUT seconds."
     echo "Listing /var/run/clamav/ directory:"
-    ls -lR /var/run/clamav/
+    ls -lR /var/run/clamav/ 2>/dev/null || echo "/var/run/clamav/ directory not accessible"
     echo "Checking clamd process status:"
     ps aux | grep clamd
     echo "Checking clamd logs (if available):"
     if [ -f /var/log/clamav/clamd.log ]; then
-        cat /var/log/clamav/clamd.log
+        tail -20 /var/log/clamav/clamd.log
     else
         echo "/var/log/clamav/clamd.log not found."
     fi
