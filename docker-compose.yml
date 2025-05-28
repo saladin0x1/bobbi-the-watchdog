@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   bobbi-watchdog:
     build:
@@ -11,10 +9,10 @@ services:
     network_mode: "bridge"  # This gives the container its own IP address
     restart: unless-stopped
     volumes:
-      - ./network_log.txt:/app/network_log.txt
       - ./captured_files:/app/captured_files
+      - ./clamd.conf:/etc/clamav/clamd.conf:ro # Mount clamd.conf
     environment:
-      - INTERFACE=eth0  # Default interface in Alpine container
+      - INTERFACE=eth0  # Default interface, might need adjustment for Ubuntu
     # Uncomment below if you want to expose any web interface in the future
     # ports:
     #   - "8080:8080"

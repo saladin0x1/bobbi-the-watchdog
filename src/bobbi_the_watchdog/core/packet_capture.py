@@ -1,5 +1,5 @@
 # src/bobbi_the_watchdog/core/packet_capture.py
-from scapy.all import sniff
+from scapy.all import sniff, get_if_list # Changed import
 import logging
 import socket
 import os
@@ -20,17 +20,31 @@ def get_container_ip():
         logging.error(f"Failed to detect container IP: {e}")
         return None
 
-def capture_icmp_packets(interface, duration):
+def capture_icmp_packets(interface, duration=None):
     """
-    Capture ICMP packets on the given interface for a set duration.
+    Capture ICMP packets on the given interface.
+    If duration is None, capture indefinitely until KeyboardInterrupt.
     Returns a dictionary of IP addresses and their packet counts.
     """
+        
     container_ip = get_container_ip()
     if not container_ip:
         logging.warning("Could not determine container IP; proceeding without filtering.")
 
     try:
-        packets = sniff(iface=interface, timeout=duration, filter="icmp")
+        if duration is None:
+            logging.info(f"Capturing ICMP packets on {interface} indefinitely...")
+            packets = sniff(iface=interface, filter="icmp", store=True) # Removed timeout for indefinite capture
+        else:
+            logging.info(f"Capturing ICMP packets on {interface} for {duration} seconds...")
+            packets = sniff(iface=interface, timeout=duration, filter="icmp")
+    except KeyboardInterrupt:
+        logging.info("Packet capture interrupted by user.")
+        # If interrupted, process packets captured so far
+        # Scapy might store partial captures in a global or we might need to handle this differently
+        # For now, assume sniff returns what it has upon interruption if store=True, or an empty list if not.
+        # This part might need refinement based on how Scapy handles Ctrl+C with no timeout.
+        return {}
     except Exception as e:
         logging.error(f"Failed to capture ICMP packets: {e}")
         return {}
@@ -47,53 +61,54 @@ def capture_icmp_packets(interface, duration):
 
     return dict(ip_counts)
 
-def capture_tcp_file(interface, duration, output_dir="captured_files"):
+# def capture_tcp_file(interface, duration=None, output_dir="captured_files"):
+def capture_tcp_and_analyze_live(interface, malware_detector, duration=None):
     """
-    Capture TCP packets on the given interface for a set duration and reassemble them into a file.
-    Returns the path to the captured file or None if no file is captured.
+    Capture TCP packets on the given interface and analyze them live for malware.
+    If duration is None, capture indefinitely until KeyboardInterrupt.
     """
     container_ip = get_container_ip()
     if not container_ip:
-        logging.warning("Could not determine container IP; proceeding without filtering.")
+        logging.warning("Could not determine container IP for TCP capture; proceeding without filtering.")
 
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-    
-    file_data = b""
+    processed_streams = set() # To keep track of processed TCP streams (src_ip, sport, dst_ip, dport)
 
-    def packet_handler(packet):
-        nonlocal file_data
-        if packet.haslayer("TCP") and packet.haslayer("Raw"):
-            src_ip = packet["IP"].src if packet.haslayer("IP") else "unknown"
-            if container_ip and src_ip == container_ip:
-                logging.debug(f"Ignoring packet from self: {src_ip}")
-                return
+    def live_packet_handler(packet):
+        if packet.haslayer("TCP") and packet.haslayer("Raw") and packet.haslayer("IP"):
+            src_ip = packet["IP"].src
+            dst_ip = packet["IP"].dst
+            sport = packet["TCP"].sport
+            dport = packet["TCP"].dport
             payload = packet["Raw"].load
-            file_data += payload
-            logging.info(f"Captured {len(payload)} bytes from {src_ip}, total: {len(file_data)}")
+
+            if container_ip and (src_ip == container_ip or dst_ip == container_ip):
+                # logging.debug(f"Ignoring packet to/from self: {src_ip}:{sport} -> {dst_ip}:{dport}")
+                return
+
+            # Create a unique identifier for the stream (consider both directions)
+            stream_id_fwd = (src_ip, sport, dst_ip, dport)
+            stream_id_rev = (dst_ip, dport, src_ip, sport) # For bi-directional streams, might need more sophisticated tracking
+
+            # For simplicity, we'll analyze each packet's payload individually here.
+            # More advanced stream reassembly would be needed for stateful analysis.
+            if payload:
+                logging.info(f"Received TCP data chunk: {len(payload)} bytes from {src_ip}:{sport} to {dst_ip}:{dport}")
+                malware_detector.analyze_data_chunk(payload)
+            # else: # TCP packets without payload (e.g. SYN, ACK, FIN)
+                # logging.debug(f"TCP packet without payload from {src_ip}:{sport} to {dst_ip}:{dport}")
 
     try:
-        logging.info(f"Capturing TCP packets on {interface} for {duration} seconds")
-        sniff(
-            iface=interface,
-            timeout=duration,
-            filter="tcp",
-            prn=packet_handler
-        )
+        if duration is None:
+            logging.info(f"Starting live TCP packet capture and analysis on {interface} indefinitely...")
+            sniff(iface=interface, filter="tcp", prn=live_packet_handler, store=False)
+        else:
+            logging.info(f"Starting live TCP packet capture and analysis on {interface} for {duration} seconds...")
+            sniff(iface=interface, filter="tcp", prn=live_packet_handler, store=False, timeout=duration)
+    except KeyboardInterrupt:
+        logging.info("Live TCP packet capture and analysis interrupted by user.")
     except Exception as e:
-        logging.error(f"Failed to capture TCP packets: {e}")
-        return None
+        logging.error(f"Error during live TCP packet capture and analysis: {e}")
 
-    if file_data:
-        output_file = os.path.join(output_dir, "captured_file")
-        try:
-            with open(output_file, "wb") as f:
-                f.write(file_data)
-            logging.info(f"File saved to {output_file}")
-            return output_file
-        except Exception as e:
-            logging.error(f"Failed to save captured file: {e}")
-            return None 
-    else:
-        logging.info("No TCP data captured to save as a file")
-        return None
+# Old function, can be removed or kept if file-based capture is still needed elsewhere
+# def capture_tcp_file(interface, duration=None, output_dir="captured_files"):
+#     ...

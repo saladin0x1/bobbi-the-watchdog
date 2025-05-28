@@ -16,7 +16,7 @@ echo "Container is now running. To check the logs, run:"
 echo "docker-compose logs -f"
 
 echo "To access the container, run:"
-echo "docker-compose exec bobbi-watchdog sh"
+echo "docker-compose exec bobbi-watchdog bash"
 
 echo "Container IP address:"
 docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' bobbi-watchdog
