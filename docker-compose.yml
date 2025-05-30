@@ -11,17 +11,6 @@ services:
       - ./captured_files:/app/captured_files
       - ./clamd.conf:/etc/clamav/clamd.conf:ro # Mount clamd.conf
     environment:
-      - INTERFACE=eth0  # Default interface, might need adjustment for Ubuntu
+      - INTERFACE=eth0  # Default to macOS primary interface, change as needed
       - THREAT_THRESHOLD=50 # Example, can be overridden
-    networks:
-      bobbi_net:
-        ipv4_address: 172.20.0.2
-
-# Define the custom network
-networks:
-  bobbi_net:
-    driver: bridge
-    ipam:
-      config:
-        - subnet: 172.20.0.0/16
-          gateway: 172.20.0.1
+    network_mode: host  # Use host network mode for direct access to host network interfaces
